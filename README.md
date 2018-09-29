@@ -1,13 +1,13 @@
-#Route Checker
+# Route Element
 A google directions API based route annalysing custom element
 
-##How to use 
+## How to use 
 
 Firstly you'll need to change the APIKey variable to the Key you have generated. Instructions on how to do that can be found at: https://developers.google.com/maps/documentation/directions/get-api-key
 
 Next simply open the routeElement.html file and check all is working.
 
-###Input Parameters:
+### Input Parameters:
 
 - showEachStep - Add markers that describes each turn/direction change that needs to be made.
   - Default: false
